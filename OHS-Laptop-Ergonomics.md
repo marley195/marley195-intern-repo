@@ -57,3 +57,5 @@ one piece of equiment that could improve posure and comfort.
 Notes of improvements from a ful day of using posture/movement reminders.
 
 document of one or more workspace or habit adjustments made.
+
+- Using an ergonomic chair to give myself better posture when working form my laptop.
