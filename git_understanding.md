@@ -53,7 +53,7 @@ What surprised you while testing these commands?
 
 - I hadn't used either of these commands before when working with github as usually our team has a single branch so it was suprising to see how beneifical creating seperate branches could be when testing particular issues.
 
-Understand git bisect
+Understand git bisect.
 
 - Git bisect is a tool that helps find commits in a repository that have introduced a bug or issue. The user identifies the last bad commit and the most recent good commit, bisect then uses a search algorithm to show the user commits in which the user can check if the issue is still present.
 
@@ -61,4 +61,29 @@ Understand git bisect
 
 - maunaully review commits can be tedious and time consuming, on top of that errors can occur as we can miss sutle changes.
 
-\*\* CHANGING THIS FILE TO TEST PULL REQUESTS.
+Pull Requests.
+
+- Pull requests help teams work by ensuring that code quality is maintained before any merging to the main branch is made. Making a pull requests allows the team to review the changes and discuss or make improvements before the pull request is merged.
+
+- To make a well-structured PR you should start with a clear and concisive title and a detailed Description about the PR. Each PR should try to be small and focused to avoid being overly complex. Add comments when needed to guide the reviewer through the changes.
+
+- PR can be a useful tool to get feedback on a potential merge not only from reviewers but from others who can access the repository, anyone can add comments about the changes. React has auto checks which run on each pull request which provides great insight into the build and run of the changes.
+
+Writing Meaningful Commit Messages.
+
+Good commit messsage requires:
+
+- Subject line under 50 characters.
+- Body is under 72 characters.
+- Seperate subject from body with a blank line.
+- Use imperative mood.
+- Use body to explain the what and why vs how.
+
+-A Clear commit messages assists team collaboration by improving communcation when mutiple members are working on one branch, team members don't have to dig through code to find the reason for the commit and reduces the likelyhood that a commit is misinterpreted.
+
+Issue arising from poor commits.
+
+- Increase workload when dubugging.
+- breakdown in developer communcation.
+- Misunderstanding amongst team of reasons for commit.
+- Difficulty tracking changes later into the projects life.
