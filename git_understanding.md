@@ -60,3 +60,5 @@ Understand git bisect
 - A good place to use this tool would when multiple people are working on a single repository and several commits had been made in recent succession, if a bug is now present its hard to determine which commit pushed the bad code.
 
 - maunaully review commits can be tedious and time consuming, on top of that errors can occur as we can miss sutle changes.
+
+\*\* CHANGING THIS FILE TO TEST PULL REQUESTS.
