@@ -36,3 +36,27 @@ How do branches help with reviewing code?
 What happens if two people edit the same file on different branches?
 
 - A conflict will arise if they attempt to merge these branches together.
+
+What does each command do?
+
+- git checkout <branch> -- <file>: Will retrieve the file from the specified branch and updates your current working directory with the content.
+- git cherry-pick <commit>: Will take a specific commitment and apply it to the working directory.
+- git log: Shows the log history for a repository, shows details of all changes and includes information of each commit
+- git blame: Shows you the history of a specific file, including details about the last commit
+
+When would you use it in a real project?
+
+- I could see this the checkout/cherry-pick command being useful when im working in my own sperate branch, if i remove or change a file that results in an error i could look at retrieving the file from the main branch.
+- Both git log and git blame are going investigation tools to check previous history of files or repositories. I could see myself using this if mutiple changes had been made to a file/repo and i wanted to identify which potential change may have introduced a bug.
+
+What surprised you while testing these commands?
+
+- I hadn't used either of these commands before when working with github as usually our team has a single branch so it was suprising to see how beneifical creating seperate branches could be when testing particular issues.
+
+Understand git bisect
+
+- Git bisect is a tool that helps find commits in a repository that have introduced a bug or issue. The user identifies the last bad commit and the most recent good commit, bisect then uses a search algorithm to show the user commits in which the user can check if the issue is still present.
+
+- A good place to use this tool would when multiple people are working on a single repository and several commits had been made in recent succession, if a bug is now present its hard to determine which commit pushed the bad code.
+
+- maunaully review commits can be tedious and time consuming, on top of that errors can occur as we can miss sutle changes.
