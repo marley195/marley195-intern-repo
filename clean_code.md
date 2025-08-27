@@ -31,3 +31,7 @@ Issues from poorly named variables.
 - Can hinder collaboration.
 
 - Refactoring aims to improve code readability by modifying internal code structure making them cleaner and easier to understand without modifying the external behaviours.
+
+Code Formatting & Style Guides
+
+Importance of code formatting.
