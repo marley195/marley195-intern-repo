@@ -43,6 +43,19 @@ Pitfalls when testing asychronous code.
 
 Benefits of React Testing Library instead of testing implementation details.
 
--
+- Using Reawct Testing Library (RTL) provides several benenfits over testing implementation details including giving the capability to minic how real world users would interact with the application ensuring your application behaves as expected. It also helps with reducing the likehood your tests will break after refactoring which is a common occurance when just tesing implementation details.
 
 Challenges when simulating user interactions
+
+- When doing my form testing i did find it challenging to implement the async behavior required to get userEvent to work, I had to use both async and await methods to ensure that each interaction finished before making the assertions.
+
+Importance of automated testing in software development.
+
+- Helps save costs as manual testing is time comsuming.
+- Imprvoed feedback loops with faster test and quicker results.
+- Higher accuracy than manual testing as manual testing cannot deliver 100% accurate results.
+- Increased test coverage, QA's can perform more number of test cases meaning more tests = wider coverage of features.
+
+Challenge with writing first Jest Test.
+
+- Jest was quite forward to setup for my project, and once the code was written for the basic addition test it ran without an issue, later on i could see some potential challenges with further configuring my jest to work with not only JS files but also JSX.
