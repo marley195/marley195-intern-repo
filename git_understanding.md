@@ -84,6 +84,11 @@ Examples
 - Overly detailed commit: I added changes to the line 84 of git_understanding to showcase an overly detailed commit
 - Well-scuctured: Added: commit Examples
 
+- Exploring commit history of github project
+Link: https://github.com/bluesky-social/social-app
+- Good commit messages are short and to the point like "move aspect ration to atom" #9174 this tells you exactly what changes have been made in that commit
+- Bad commit: vague such as "nit" commit on october 7 2025 this provides little context as to the changes that where made
+
 -A Clear commit messages assists team collaboration by improving communcation when mutiple members are working on one branch, team members don't have to dig through code to find the reason for the commit and reduces the likelyhood that a commit is misinterpreted.
 
 Issue arising from poor commits.
