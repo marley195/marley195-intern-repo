@@ -69,6 +69,10 @@ Pull Requests.
 
 - PR can be a useful tool to get feedback on a potential merge not only from reviewers but from others who can access the repository, anyone can add comments about the changes. React has auto checks which run on each pull request which provides great insight into the build and run of the changes.
 
+PR review
+link: https://github.com/Focus-Bear/mobile-app/pull/3555
+- used a linter and checklist to ensure that all the relevant tests and reviews had been completed by the submitter. Comments where left for specific errors during the linter in which are unrelated to the pull request, this will help speed up the review process for the requested reviewer
+
 Writing Meaningful Commit Messages.
 
 Good commit messsage requires:
