@@ -79,6 +79,9 @@ Good commit messsage requires:
 - Use imperative mood.
 - Use body to explain the what and why vs how.
 
+Examples
+- Wrting Bad Commit: fixed stuff
+
 -A Clear commit messages assists team collaboration by improving communcation when mutiple members are working on one branch, team members don't have to dig through code to find the reason for the commit and reduces the likelyhood that a commit is misinterpreted.
 
 Issue arising from poor commits.
@@ -87,3 +90,5 @@ Issue arising from poor commits.
 - breakdown in developer communcation.
 - Misunderstanding amongst team of reasons for commit.
 - Difficulty tracking changes later into the projects life.
+
+
