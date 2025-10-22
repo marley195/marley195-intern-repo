@@ -68,3 +68,6 @@ What would you do if you suspected a security breach or suspicious activity on y
 - Change password and enable additional authenification when possible.
 - Notify IT support to investigate.
 - Turn on notifications for unauthorised actions or unsual activites.
+
+Document one new cyber security habit you will follow at Focus Bear.
+- Because interning at FocusBear requires me to work in public settings i have since reduced the time it takes my computer to lock when idle, from 20 minutes to 5 minutes this ensures that if i do leave my computer unattended it will automatically lock reducing the likehood of someone gaining access to my laptop.
