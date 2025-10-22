@@ -35,8 +35,13 @@ What is one practical change you can make in your work to better support vulnera
 
 - One change i could make would be to apply WCAG accessibility standards in all my work, doing so would reduce the number of vuilnerable population that would encounter difficulties when using my digitial products.
 
-Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools. (Hint: Look for blog posts, videos, or community discussions.) \*\*\*
+Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools. (Hint: Look for blog posts, videos, or community discussions.) 
+Link: https://imbusybeingawesome.com/before-you-switch-planners-adhd/
+- This task about the process of testing different productivty apps and how it can be mentally and emotionally draining similar to moving houses which resinates with myself as i have tried many. People can focus too much of searching on a new productivty app that hits all their marks instead of using their current app and setting it up in a way that suits them.
 
-Identify one design or communication improvement that could make Focus Bear more accessible. \*\*\*
+Identify one design or communication improvement that could make Focus Bear more accessible. 
+- Improvements to the onboarding expereince to make it more fluid and less daunting to people with ADHD, this could be done by introducting features incrementally instead of loading all of them through the onboarding. This would help people from feeling overwelmed by the ammount of features that are in focus bear.
 
-Practice writing a clear, patient, and supportive response to a hypothetical user struggling with executive functioning. \*\*\*
+
+Practice writing a clear, patient, and supportive response to a hypothetical user struggling with executive functioning. 
+- I know that it can be overwhelming to use the executive functions and thats fine, To help with this you could try breaking things down into smaller doable steps. Maybe try opening the app first and writing down what you want to start with. You need to remember that every action counts and helps build progress to your great tasks. 
