@@ -82,6 +82,7 @@ Good commit messsage requires:
 Examples
 - Wrting Bad Commit: fixed stuff
 - Overly detailed commit: I added changes to the line 84 of git_understanding to showcase an overly detailed commit
+- Well-scuctured: Added: commit Examples
 
 -A Clear commit messages assists team collaboration by improving communcation when mutiple members are working on one branch, team members don't have to dig through code to find the reason for the commit and reduces the likelyhood that a commit is misinterpreted.
 
