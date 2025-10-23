@@ -47,15 +47,15 @@ How can i remind myself to maintain good posture and take breaks.
 tasks
 
 Adjust your laptop to make it more ergonomic.
-
-- changed degree of screen to reduce neck strain.
+- Moved my laptop stand to increase height to make sure it is close to eye level.
 
 one piece of equiment that could improve posure and comfort.
 
-- Chain could be changed out for an ergonmic chain which provides better customisation based on my requireed posture position.
+- My Chair could be changed out for an ergonmic chain which provides better customisation based on my requireed posture position.
 
-Notes of improvements from a ful day of using posture/movement reminders.
+Notes of improvements from a full day of using posture/movement reminders
+- I have used FocusBears focus mdoe to remind me to check my posture every 25 mintues (what i have set my study periods to). I have noticed that i am now more aware of my posture when my timer goes off and it has help me be more conistent with it, as stated below this on top of chainging out my chair has reduced my tailbone pain when sitting for long periods of time.
+
 
 document of one or more workspace or habit adjustments made.
-
-- Using an ergonomic chair to give myself better posture when working form my laptop.
+- I upgraded my previous chain to a herman miller mirra 2 to provide me with tilt customisations which is improving my posture when sitting for long periods of time, i have already noticed a significant improvement and no longer get a sore tailbone when sitting for more than a few hours, as a knock on effect that has improved my focus as i dont want to move around as much.
