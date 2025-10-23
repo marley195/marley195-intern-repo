@@ -35,3 +35,9 @@ How can you improve your workflow using Kanban principles?
 Identify one way you can improve task tracking in your role.
 
 - To improve my task tracking i could start by breaking larger features or requests into smaller more defined subtasks. This way i could then update their status providing a clearer insight into my progress of their feature. This would not only help me but also help my team better estimate the completeion timeline.
+
+Tasks moved
+- Task: Log quantity modal shouldn't be dismissed by tapping outside the modal. #3236
+- previous status: Dev work in progress.
+- New status: Read for QA
+
