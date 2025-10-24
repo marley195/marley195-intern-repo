@@ -6,10 +6,12 @@ When to ask a colleague
 
 - Asking a colleague for assistance depends on several factors, such as the complexity of the problem, whether it requires knowledge of the entire repository, if sensitive information is involved, or if security is a concern. Whenever there is uncertainty in any of these areas, it is best to seek clarification or guidance from a colleague.
 
-Challenges when troubleshoot alone
+Challenges when troubleshooting alone
 
-- Reduced perspective making it easy to overlook alternative paths solutions or not see a blind spot in the code.
-- A lack of knowledge across call frameworks/libraries that have be used in the project.
-- No code reviews or valiation of code causing reduced code quality.
+- Reduced perspective making it easy to overlook alternative path solutions or not see a blind spot in the code.
+- A lack of knowledge across all frameworks/libraries that have been used in the project.
+- No code reviews or validation of code causing reduced code quality.
 - Can have the risk of tunnel vision causing time to be spent implementing the wrong solution.
-- Lack of motivation working solo can cause a reduction in producivity.
+- Lack of motivation working solo can cause a reduction in productivity.
+
+Flowchart file location: Flowchart.pdf

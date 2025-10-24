@@ -138,3 +138,6 @@ Issue detected from linter
 Is the formationed code easier to read?
 
 - Yes using a linter helped improve readability by ensuring consistent rules where followed throughout the entire codebase.
+
+How did refactoring improve the structure of the code?
+-To refactor my code in refactoring.py i used Extract method to break larg methods into smaller more focused methods to ensure that each method had a single responsiblity. I also created conditional classes for different item type this ensured that each type handles its own logic, implementing these methdos ensure that the code is easier to read and reduces code blowout of big methods.
