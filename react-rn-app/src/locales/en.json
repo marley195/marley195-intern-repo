@@ -1,0 +1,8 @@
+{
+  "home": {
+    "title": "Welcome",
+    "switch_to_french": "Switch to French",
+    "switch_to_english": "Switch to English",
+    "current_lang": "Current language: {{lng}}"
+  }
+}
