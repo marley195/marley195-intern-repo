@@ -24,3 +24,14 @@ Benfits of Client-side routing.
 - Reduced server load as doesnt have to render entire page.
 - supports browsing history.
 - Unique URLS.
+
+What are the advantages of using Tailwind CSS?
+
+- Tailwind helps speed up code writing by allowing users to style their components directly on the HTML rather than having seperate CSS files. doing this also helps with keeping consistent design across components and reduces the burden of naming individiaul css classes.
+
+What are some potential pitfalls?
+
+- If tailwind isn't used consistently in a project it can hinder the design.
+- There is a learning curve with tailwind as users need to remember the names of utilities, this is something i had trouble with.
+- Tailwind requires configuring which can sometimes be tedious to get right.
+- Components that have a lot of tailwind code are locked in to it meaning they are less portable to other non-utility CSS stacks.
