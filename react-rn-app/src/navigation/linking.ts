@@ -13,6 +13,7 @@ export const linking: LinkingOptions<RootStackParamList> = {
       Profile: "profile/:id?", // myapp://profile/123
       Debug: "debug",
       Language: "language",
+      Animated: "animated",
     },
   },
 };

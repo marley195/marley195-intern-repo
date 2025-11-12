@@ -3,4 +3,5 @@ export type RootStackParamList = {
   Profile: { id?: string };
   Debug: undefined;
   Language: undefined;
+  Animated: undefined;
 };

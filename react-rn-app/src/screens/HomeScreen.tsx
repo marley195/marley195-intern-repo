@@ -34,6 +34,10 @@ export default function HomeScreen({ navigation }: Props) {
         onPress={() => navigation.navigate("Language")}
       ></Button>
       <Button
+        title="Go to Animated Screen"
+        onPress={() => navigation.navigate("Animated")}
+      ></Button>
+      <Button
         title="log deep link to profile"
         onPress={() => console.log(profileUrl)}
       ></Button>

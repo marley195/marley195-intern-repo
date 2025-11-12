@@ -5,6 +5,7 @@ import HomeScreen from "../screens/HomeScreen";
 import ProfileScreen from "../screens/ProfileScreen";
 import DebugScreen from "../screens/DebugScreen";
 import LanguageScreen from "../screens/LanguageScreen";
+import AnimatedScreen from "../screens/AnimatedScreen";
 const stack = createNativeStackNavigator<RootStackParamList>();
 
 export default function RootNavigator() {
@@ -14,6 +15,7 @@ export default function RootNavigator() {
       <stack.Screen name="Profile" component={ProfileScreen} />
       <stack.Screen name="Debug" component={DebugScreen} />
       <stack.Screen name="Language" component={LanguageScreen} />
+      <stack.Screen name="Animated" component={AnimatedScreen} />
     </stack.Navigator>
   );
 }

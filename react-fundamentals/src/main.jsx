@@ -6,7 +6,7 @@ import UseEffect from "./useEffect";
 import FormikForm from "./form";
 import "./index.css";
 import Tailwind from "./tailwind";
-
+import Debugging from "./debugging";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
@@ -14,5 +14,6 @@ createRoot(document.getElementById("root")).render(
     <UseEffect />
     <FormikForm />
     <Tailwind />
+    <Debugging />
   </StrictMode>
 );
